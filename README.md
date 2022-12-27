@@ -11,7 +11,10 @@
 -     FASTER NoDB - https://github.com/microsoft/FASTER
 -     Few other random things
 
-- 💞️ I’m looking to collaborate on Unity 3D projects. Any indie devs or artists around?
+- 💞️ I’m looking to collaborate on:
+-     Implementing the Elm architecture in Unity 3D considering Mono - just a thought experiment I'm working on
+-     Unity 3D projects. Any indie devs or artists around?
+-     StockSharp. For.. reasons.
 
 - 📫 You can reach me at william.washington@live.com
 
